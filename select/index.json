@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "AWAKE",
+  "base_artist": "downt",
+  "createdAt": "2026-03-19T19:35:01.134708Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stay Awake",
+      "artist": "The Innocence Mission",
+      "has_synced": true,
+      "path": "select/01_Stay_Awake_The_Innocence_Mission.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stay Wide Awake",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/02_Stay_Wide_Awake_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wide Awake On the Voyage Home",
+      "artist": "Liam Finn",
+      "has_synced": true,
+      "path": "select/03_Wide_Awake_On_the_Voyage_Home_Liam_Finn.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Doom, Are You Awake? (Skit)",
+      "artist": "MF DOOM",
+      "has_synced": true,
+      "path": "select/04_Doom,_Are_You_Awake__(Skit)_MF_DOOM.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Doom, Are You Awake (Skit)",
+      "artist": "MF DOOM",
+      "has_synced": true,
+      "path": "select/05_Doom,_Are_You_Awake_(Skit)_MF_DOOM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sleep Awake",
+      "artist": "Mother Mother",
+      "has_synced": true,
+      "path": "select/06_Sleep_Awake_Mother_Mother.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stay Awake",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/07_Stay_Awake_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stay Awake",
+      "artist": "Órla Fallon",
+      "has_synced": false,
+      "path": "select/08_Stay_Awake_Órla_Fallon.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wish the World Awake",
+      "artist": "Black",
+      "has_synced": false,
+      "path": "select/09_Wish_the_World_Awake_Black.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Awake",
+      "artist": "AKRON/FAMILY",
+      "has_synced": true,
+      "path": "select/10_Awake_AKRON_FAMILY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Awake the Unkind",
+      "artist": "UNKLE",
+      "has_synced": true,
+      "path": "select/11_Awake_the_Unkind_UNKLE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Feeling This Is Like To Fall Awake",
+      "artist": "Halou",
+      "has_synced": false,
+      "path": "select/12_Feeling_This_Is_Like_To_Fall_Awake_Halou.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Awake",
+      "artist": "Black Rebel Motorcycle Club",
+      "has_synced": true,
+      "path": "select/13_Awake_Black_Rebel_Motorcycle_Club.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Alive/Awake",
+      "artist": "Oh Land",
+      "has_synced": true,
+      "path": "select/14_Alive_Awake_Oh_Land.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Alive \u0000 Awake",
+      "artist": "Oh! Land",
+      "has_synced": true,
+      "path": "select/15_Alive_\u0000_Awake_Oh!_Land.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AWAKE",
+      "artist": "downt",
+      "has_synced": false,
+      "path": "select/pl_01_AWAKE_downt.txt"
+    }
+  ]
+}
